@@ -1,5 +1,5 @@
-### Xaptao Zsh Theme
+### Zsh Custom Themes Directory
 
-Oh my custom zsh theme.
+> Oh my zsh themes.
 
-Under development.
+xaptao.zsh-theme
